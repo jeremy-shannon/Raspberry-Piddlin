@@ -1,1 +1,3 @@
-# Raspberry-Piddlin
+# Raspberry-Piddlin'
+
+Just piddlin' around, son.
